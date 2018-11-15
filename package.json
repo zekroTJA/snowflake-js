@@ -1,0 +1,26 @@
+{
+  "name": "snowflake-js",
+  "version": "1.0.0",
+  "description": "A twitter like snowflake adaption to create unique, time stamp based IDs for node.js",
+  "main": "snowflake.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/zekroTJA/snowflake-js"
+  },
+  "keywords": [
+    "snowflake",
+    "twitter",
+    "twitter snowflake",
+    "uid",
+    "discord snowflake"
+  ],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "author": "zekro <contact@zekro.de>",
+  "license": "MIT"
+}
